@@ -1,7 +1,7 @@
 {
   "servers": [
     {
-      "name": "Server 1",
+      "name": "nl1",
       "address": "ssh-nl1.sshkit.org",
       "port": 442,
       "protocol": "HTTP/1.1",
