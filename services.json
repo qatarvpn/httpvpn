@@ -1,28 +1,34 @@
 {
   "servers": [
     {
-      "name": "WhatsApp NL",
-      "address": "ssh-nl1.sshkit.org",
+      "name": "France SSH",
+      "address": "ssh-fr1.sshkit.org",
       "port": 442,
       "protocol": "HTTP/1.1",
-      "payload": "CONNECT [host_port] [protocol]\r\nHost: web.whatsapp.com\r\n\r\n",
-      "host": "web.whatsapp.com"
+      "payload": "CONNECT [host_port] [protocol]\r\nHost: web.whatsapp.com\r\nProxy-Authorization: Basic [auth]\r\nConnection: Keep-Alive\r\n\r\n",
+      "host": "web.whatsapp.com",
+      "username": "sshkit-5231065783",
+      "password": "1234"
     },
     {
-      "name": "Facebook US",
-      "address": "ssh-us1.sshkit.org",
+      "name": "France FB",
+      "address": "ssh-fr1.sshkit.org",
       "port": 442,
       "protocol": "HTTP/1.1",
-      "payload": "CONNECT [host_port] [protocol]\r\nHost: m.facebook.com\r\n\r\n",
-      "host": "m.facebook.com"
+      "payload": "CONNECT [host_port] [protocol]\r\nHost: m.facebook.com\r\nProxy-Authorization: Basic [auth]\r\nConnection: Keep-Alive\r\n\r\n",
+      "host": "m.facebook.com",
+      "username": "sshkit-5231065783",
+      "password": "1234"
     },
     {
-      "name": "Instagram SG",
-      "address": "ssh-sg1.sshkit.org",
+      "name": "France IG",
+      "address": "ssh-fr1.sshkit.org",
       "port": 442,
       "protocol": "HTTP/1.1",
-      "payload": "CONNECT [host_port] [protocol]\r\nHost: free.instagram.com\r\n\r\n",
-      "host": "free.instagram.com"
+      "payload": "CONNECT [host_port] [protocol]\r\nHost: free.instagram.com\r\nProxy-Authorization: Basic [auth]\r\nConnection: Keep-Alive\r\n\r\n",
+      "host": "free.instagram.com",
+      "username": "sshkit-5231065783",
+      "password": "1234"
     }
   ]
 }
