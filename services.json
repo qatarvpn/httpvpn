@@ -1,27 +1,27 @@
 {
   "servers": [
     {
-      "name": "nl1",
+      "name": "WhatsApp NL",
       "address": "ssh-nl1.sshkit.org",
       "port": 442,
       "protocol": "HTTP/1.1",
-      "payload": "HEAD [host_port] [protocol]\\r\\nHost: web.whatsapp.com\\r\\n\\r\\n",
+      "payload": "CONNECT [host_port] [protocol]\r\nHost: web.whatsapp.com\r\n\r\n",
       "host": "web.whatsapp.com"
     },
     {
-      "name": "Server 2",
+      "name": "Facebook US",
       "address": "ssh-us1.sshkit.org",
-      "port": 8442,
+      "port": 442,
       "protocol": "HTTP/1.1",
-      "payload": "HEAD [host_port] [protocol]\\r\\nHost: m.facebook.com\\r\\n\\r\\n",
+      "payload": "CONNECT [host_port] [protocol]\r\nHost: m.facebook.com\r\n\r\n",
       "host": "m.facebook.com"
     },
     {
-      "name": "Server 3",
+      "name": "Instagram SG",
       "address": "ssh-sg1.sshkit.org",
       "port": 442,
-      "protocol": "HTTP/1.0",
-      "payload": "HEAD [host_port] [protocol]\\r\\nHost: free.instagram.com\\r\\n\\r\\n",
+      "protocol": "HTTP/1.1",
+      "payload": "CONNECT [host_port] [protocol]\r\nHost: free.instagram.com\r\n\r\n",
       "host": "free.instagram.com"
     }
   ]
