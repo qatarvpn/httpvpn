@@ -1,34 +1,12 @@
-{
-          "servers": [
-            {
-              "name": "France SSH",
-              "address": "ssh-fr1.sshkit.org",
-              "port": 442,
-              "protocol": "HTTP/1.1",
-              "payload": "HEAD [host_port] [protocol]\r\nHost: web.whatsapp.com\r\n\r\n",
-              "host": "web.whatsapp.com",
-              "username": "sshkit-5231065783",
-              "password": "1234"
-            },
-            {
-              "name": "France FB",
-              "address": "ssh-fr1.sshkit.org",
-              "port": 442,
-              "protocol": "HTTP/1.1",
-              "payload": "HEAD [host_port] [protocol]\r\nHost: m.facebook.com\r\n\r\n",
-              "host": "m.facebook.com",
-              "username": "sshkit-5231065783",
-              "password": "1234"
-            },
-            {
-              "name": "France IG",
-              "address": "ssh-fr1.sshkit.org",
-              "port": 442,
-              "protocol": "HTTP/1.1",
-              "payload": "HEAD [host_port] [protocol]\r\nHost: free.instagram.com\r\n\r\n",
-              "host": "free.instagram.com",
-              "username": "sshkit-5231065783",
-              "password": "1234"
-            }
-          ]
-        }
+[
+  {
+    "name": "🇫🇷 France wg",
+    "config": "[Interface]\nPrivateKey = 8JT170Jh2oJ9NCJ1t2speqczBd8KFvTM1tFy5awF4m4=\nAddress = 10.66.66.9/32,fd42:42:42::9/128\nDNS = 1.1.1.1,1.0.0.1\n\n[Peer]\nPublicKey = YzgoDUrWehG5XNgIv22ev4OpHw0Y+m5Ih6wZx5Ag/Ec=\nPresharedKey = 7js2syfTyretEuOtTxrTDe8lDEokRbj+XbDQzBE/Cw4=\nEndpoint = fr.tcp-udp.site:51820\nAllowedIPs = 0.0.0.0/0,::/0"
+  },
+  {
+    "name": "FRANCE 🇫🇷 ovpn",
+    "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
+    "username": "vpnbook",
+    "password": "cf32e5w"
+  }
+]
