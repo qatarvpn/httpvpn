@@ -1,20 +1,56 @@
 [
     {
-  "name": "United States 🇺🇸 ot",
+  "name": "United States 🇺🇸",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#United States%20#20946%20/%20OutlineKeys.com"
 },
    {
-  "name": "United States 🇺🇸 OT",
+  "name": "United States 🇺🇸",
   "config": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#United States%20#21263%20/%20OutlineKeys.com"
 },
+     {
+      "name": "United States 🇺🇸",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
+      "username": "vpnbook",
+      "password": "cf32e5w"
+    },
+    {
+      "name": "United States 🇺🇸",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us2.ovpn",
+      "username": "vpnbook",
+      "password": "cf32e5w"
+    },
    {
   "name": "Germany 🇩🇪 OT",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMXhPaGZONXR2enJpZ25YdXhXa2t3@77.239.116.76:8315#Germany%20#21293%20/%20OutlineKeys.com"
 },
+     {
+      "name": "GERMANY 🇩🇪",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
+      "username": "vpnbook",
+      "password": "cf32e5w"
+    },
+    {
+      "name": "GERMANY 🇩🇪",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de2.ovpn",
+      "username": "vpnbook",
+      "password": "cf32e5w"
+    },
    {
-  "name": "United Kingdom 🇬🇧 OT",
+  "name": "United Kingdom 🇬🇧 ",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#United Kingdom%20#21377%20/%20OutlineKeys.com"
 },
+    {
+      "name": "United Kingdom 🇬🇧",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk1.ovpn",
+      "username": "vpnbook",
+      "password": "cf32e5w"
+    },
+    {
+      "name": "United Kingdom 🇬🇧",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk2.ovpn",
+      "username": "vpnbook",
+      "password": "cf32e5w"
+    },
    {
     "name": "France 🇫🇷",
     "config": "[Interface]\nPrivateKey = 8JT170Jh2oJ9NCJ1t2speqczBd8KFvTM1tFy5awF4m4=\nAddress = 10.66.66.9/32,fd42:42:42::9/128\nDNS = 1.1.1.1,1.0.0.1\n\n[Peer]\nPublicKey = YzgoDUrWehG5XNgIv22ev4OpHw0Y+m5Ih6wZx5Ag/Ec=\nPresharedKey = 7js2syfTyretEuOtTxrTDe8lDEokRbj+XbDQzBE/Cw4=\nEndpoint = fr.tcp-udp.site:51820\nAllowedIPs = 0.0.0.0/0,::/0"
