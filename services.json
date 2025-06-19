@@ -40,6 +40,14 @@
   "name": "Latvia 🇱🇻 ",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1elJpQktBWWJLcERRdVc0bktHRUR4MTNINGg5R2VEeGFxMk9NdUppcUJ2UTVSc3M=@185.135.86.86:31348#Latvia%20#21042%20/%20OutlineKeys.com"
 },
+    {
+  "name": "Romania 🇷🇴",
+  "config": "[Interface] # Bouncing = 2 # NAT-PMP (Port Forwarding) = off # VPN Accelerator = on PrivateKey = qJtjLPaBBLC6Z3t0SsykCCOdTp+cKi4yr/HAFLkVvWw= Address = 10.2.0.2/32 DNS = 10.2.0.1 [Peer] # RO-FREE#1 PublicKey = 5qZc9c0rHEKhBXd+NnQ69AJuYjCKqTjt1hM2+UaZDng= AllowedIPs = 0.0.0.0/0 Endpoint = 149.102.239.225:51820"
+},
+    {
+  "name": "Poland 🇵🇱",
+  "config": "[Interface] # Bouncing = 0 # NAT-PMP (Port Forwarding) = off # VPN Accelerator = on PrivateKey = cNW7y9sm4J10wbK6HtX1SkAAFWi3Fkr3HMxa3tIyO2Y= Address = 10.2.0.2/32 DNS = 10.2.0.1 [Peer] # PL-FREE#1 PublicKey = ScCkMvpikYBB3IFtDJC6Xh59pmq4StGlU/JfvALPxUE= AllowedIPs = 0.0.0.0/0 Endpoint = 149.102.244.97:51820"
+},
    {
   "name": "United Kingdom 🇬🇧 ",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#United Kingdom%20#21377%20/%20OutlineKeys.com"
