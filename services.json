@@ -17,18 +17,6 @@
   "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@173.244.56.9:443#United States%20#21213%20/%20OutlineKeys.com"
 },
     {
-      "name": "France 🇫🇷",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
-      "username": "vpnbook",
-      "password": "cf32e5w"
-    },
-     {
-      "name": "France 🇫🇷",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr1.ovpn",
-      "username": "vpnbook",
-      "password": "cf32e5w"
-    },
-    {
   "name": "Germany 🇩🇪 ",
   "config": "ss://YWVzLTI1Ni1nY206S25ZS3dwdzB3NGMwUkRuQ284S1VjRFFjd3BwN3c3YkN2M25DZ01PUEhCL0RuaExEajhPYXdyVlZCMm81@178.128.200.198:8443#Germany%20#21504%20/%20OutlineKeys.com"
 },
@@ -65,6 +53,10 @@
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#Vietnam%20#20946%20/%20OutlineKeys.com"
 },
     {
+  "name": "Vietnam 🇻🇳",
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#Vietnam%20#21550%20/%20OutlineKeys.com"
+},
+    {
   "name": "Taiwan 🇹🇼",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#t.me%2FOutlineVpnOfficial%20%7C%20%282586%29%20%7C%20TW"
 },
@@ -79,6 +71,10 @@
     {
   "name": "Turkey 🇹🇷",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#Turkey%20#21058%20/%20OutlineKeys.com"
+},
+    {
+  "name": "Turkey 🇹🇷",
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#Turkey%20#21548%20/%20OutlineKeys.com"
 },
     {
   "name": "Argentina 🇦🇷",
