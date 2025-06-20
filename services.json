@@ -16,6 +16,18 @@
   "name": "United States 🇺🇸",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#United States%20#21505%20/%20OutlineKeys.com"
 },
+      {
+      "name": "United States 🇺🇲",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us2.ovpn",
+      "username": "vpnbook",
+      "password": "cf32e5w"
+    },
+    {
+      "name": "United States 🇺🇲",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
+      "username": "vpnbook",
+      "password": "cf32e5w"
+    },
   {
       "name": "France 🇫🇷",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
@@ -34,6 +46,12 @@
   "name": "Germany 🇩🇪 ",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Germany%20#21195%20/%20OutlineKeys.com"
 },
+    {
+      "name": "Germany 🇩🇪",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
+      "username": "vpnbook",
+      "password": "cf32e5w"
+    },
  {
   "name": "Latvia 🇱🇻 ",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1elJpQktBWWJLcERRdVc0bktHRUR4MTNINGg5R2VEeGFxMk9NdUppcUJ2UTVSc3M=@185.135.86.86:31348#Latvia%20#21042%20/%20OutlineKeys.com"
@@ -42,6 +60,12 @@
   "name": "United Kingdom 🇬🇧 ",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#United Kingdom%20#21377%20/%20OutlineKeys.com"
 },
+    {
+      "name": "United Kingdom 🇬🇧 ",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk2.ovpn",
+      "username": "vpnbook",
+      "password": "cf32e5w"
+    },
      {
   "name": "Netherlands 🇳🇱",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#Netherlands%20#21235%20/%20OutlineKeys.com"
@@ -62,6 +86,12 @@
     "name": "Poland 🇵🇱",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WkVZckIyNWVMcGlMaEIyN3U3Y3VMRG9STDZqaFpNZkN4cnNyTXZPeGNTMkVNR2J2V2lKZEsyaXRpV1VIQVE9@45.43.137.114:443#Poland%20#21558%20/%20OutlineKeys.com"
   },
+    {
+      "name": "POLAND 🇵🇱 ",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl2.ovpn",
+      "username": "vpnbook",
+      "password": "cf32e5w"
+    },
     {
   "name": "Vietnam 🇻🇳",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#Vietnam%20#20946%20/%20OutlineKeys.com"
@@ -101,5 +131,11 @@
     {
     "name": "Canada 🇨🇦 ",
     "config": "[Interface]\nPrivateKey = 4AEcRmnpB1KbpibyKtxqc7ql/8Wc+JORT7KaPR+vx2c=\nAddress = 172.16.0.2/32, 2606:4700:110:8566:d523:7241:b73f:4a0/128\nDNS = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001\nMTU = 1280\n\n[Peer]\nPublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=\nAllowedIPs = 0.0.0.0/0\nAllowedIPs = ::/0\nEndpoint = engage.cloudflareclient.com:2408"
-  }
+  },
+    {
+      "name": "CANADA 🇨🇦 ",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca2.ovpn",
+      "username": "vpnbook",
+      "password": "cf32e5w"
+    }
 ]
