@@ -16,6 +16,10 @@
   "name": "United States 🇺🇸",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#United States%20#21505%20/%20OutlineKeys.com"
 },
+     {
+  "name": "United States 🇺🇸",
+  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.130:443#United%20States%20Datacamp"
+},
       {
       "name": "United States 🇺🇲",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us2.ovpn",
@@ -61,6 +65,19 @@
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#United Kingdom%20#21377%20/%20OutlineKeys.com"
 },
     {
+  "name": "United Kingdom 🇬🇧 ",
+  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#United%20Kingdom%20Datacamp"
+},
+    {
+  "name": "United Kingdom 🇬🇧 ",
+  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#United%20Kingdom%20M247"
+},
+    
+    {
+  "name": "United Kingdom 🇬🇧 ",
+  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#United+Kingdom+Datacamp"
+},
+    {
       "name": "United Kingdom 🇬🇧 ",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk2.ovpn",
       "username": "vpnbook",
@@ -92,6 +109,15 @@
       "username": "vpnbook",
       "password": "cf32e5w"
     },
+    {
+  "name": "Austria 🇦🇹",
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Austria%20PQ"
+},
+    
+    {
+  "name": "Hong kong 🇭🇰",
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#Vietnam%20#20946%20/%20OutlineKeys.com"
+},
     {
   "name": "Vietnam 🇻🇳",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#Vietnam%20#20946%20/%20OutlineKeys.com"
