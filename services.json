@@ -16,12 +16,8 @@
   "name": "United States 🇺🇸",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#United States%20#21505%20/%20OutlineKeys.com"
 },
-    {
-  "name": "United States 🇺🇸",
-  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@173.244.56.9:443#United States%20#21213%20/%20OutlineKeys.com"
-},
-     {
-      "name": "FRANCE 🇫🇷",
+  {
+      "name": "France 🇫🇷",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
@@ -64,7 +60,15 @@
   },
     {
     "name": "Finland 🇫🇮",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.218:2222#Finland%20#21564%20/%20OutlineKeys.com"
+  },
+    {
+    "name": "Finland 🇫🇮",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQYXJzYXNob25hbS0yNTk3@157.180.127.73:23819#Finland%20#21518%20/%20OutlineKeys.com"
+  },
+     {
+    "name": "Poland 🇵🇱",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WkVZckIyNWVMcGlMaEIyN3U3Y3VMRG9STDZqaFpNZkN4cnNyTXZPeGNTMkVNR2J2V2lKZEsyaXRpV1VIQVE9@45.43.137.114:443#Poland%20#21558%20/%20OutlineKeys.com"
   },
     {
   "name": "Vietnam 🇻🇳",
