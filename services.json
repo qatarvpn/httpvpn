@@ -110,10 +110,18 @@
       "password": "cf32e5w"
     },
     {
+  "name": "Switzerland 🇦🇹",
+  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#Switzerland%20Datacamp"
+},
+    {
   "name": "Austria 🇦🇹",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Austria%20PQ"
 },
     
+    {
+  "name": "Japan 🇯🇵",
+  "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp"
+},
     {
   "name": "Hong kong 🇭🇰",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#Vietnam%20#20946%20/%20OutlineKeys.com"
