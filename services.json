@@ -87,6 +87,10 @@
       "username": "vpnbook",
       "password": "cf32e5w"
     },
+    {
+  "name": "Netherlands 🇳🇱",
+  "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#Netherlands%20#21581%20/%20OutlineKeys.com"
+},
      {
   "name": "Netherlands 🇳🇱",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#Netherlands%20#21235%20/%20OutlineKeys.com"
@@ -106,6 +110,10 @@
     {
     "name": "Poland 🇵🇱",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WkVZckIyNWVMcGlMaEIyN3U3Y3VMRG9STDZqaFpNZkN4cnNyTXZPeGNTMkVNR2J2V2lKZEsyaXRpV1VIQVE9@45.43.137.114:443#Poland%20#21558%20/%20OutlineKeys.com"
+  },
+    {
+    "name": "Poland 🇵🇱",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#Poland%20#21582%20/%20OutlineKeys.com"
   },
     {
       "name": "Poland 🇵🇱 ",
