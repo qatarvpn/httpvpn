@@ -1,281 +1,281 @@
 [
   {
-    "name": "United States 1",
+    "name": "United States",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-0964",
     "countryCode": "us"
   },
   {
-    "name": "United States 2",
+    "name": "United States",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-1087",
     "countryCode": "us"
   },
   {
-    "name": "United States 3",
+    "name": "United States",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#United States%20#20946%20/%20OutlineKeys.com",
     "countryCode": "us"
   },
   {
-    "name": "United States 4",
+    "name": "United States",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha2NIVnQ5YlBoOERDazZqTUt6NjJq@198.211.104.229:60573#United States%20#21616%20/%20OutlineKeys.com",
     "countryCode": "us"
   },
   {
-    "name": "Germany 1",
+    "name": "Germany",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@194.87.71.220:2222#Germany%20#21577%20/%20OutlineKeys.com",
     "countryCode": "de"
   },
   {
-    "name": "Germany 2",
+    "name": "Germany",
     "config": "ss://YWVzLTI1Ni1nY206S25ZS3dwdzB3NGMwUkRuQ284S1VjRFFjd3BwN3c3YkN2M25DZ01PUEhCL0RuaExEajhPYXdyVlZCMm81@178.128.200.198:8443#Germany%20#21504%20/%20OutlineKeys.com",
     "countryCode": "de"
   },
   {
-    "name": "Germany 3",
+    "name": "Germany",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Germany%20#21195%20/%20OutlineKeys.com",
     "countryCode": "de"
   },
   {
-    "name": "Germany 4",
+    "name": "Germany",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbDZPdG1ScU1zNmFpRkpKMHlTZFVV@165.22.82.213:80/?outline=1",
     "countryCode": "de"
   },
   {
-    "name": "Germany 5",
+    "name": "Germany",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4T0xUNU4xYnNjWGdwVnVpOU50Z0po@45.150.32.13:14628#Germany%20#21667%20/%20OutlineKeys.com",
     "countryCode": "de"
   },
   {
-    "name": "United Kingdom 1",
+    "name": "United Kingdom",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#🇬🇧GB-212.102.53.193-0988",
     "countryCode": "gb"
   },
   {
-    "name": "United Kingdom 2",
+    "name": "United Kingdom",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#United%20Kingdom%20Datacamp",
     "countryCode": "gb"
   },
   {
-    "name": "United Kingdom 3",
+    "name": "United Kingdom",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#United%20Kingdom%20M247",
     "countryCode": "gb"
   },
   {
-    "name": "United Kingdom 4",
+    "name": "United Kingdom",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#🇬🇧GB-212.102.53.81-1017",
     "countryCode": "gb"
   },
   {
-    "name": "France 1",
+    "name": "France",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#🇫🇷FR-45.158.171.151-1008",
     "countryCode": "fr"
   },
   {
-    "name": "France 2",
+    "name": "France",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.141-0978",
     "countryCode": "fr"
   },
   {
-    "name": "France 3",
+    "name": "France",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.110-0977",
     "countryCode": "fr"
   },
   {
-    "name": "France 4",
+    "name": "France",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#🇫🇷FR-45.158.171.132-1007",
     "countryCode": "fr"
   },
   {
-    "name": "Latvia 1",
+    "name": "Latvia",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#Latvia%20#21576%20/%20OutlineKeys.com",
     "countryCode": "lv"
   },
   {
-    "name": "Netherlands 1",
+    "name": "Netherlands",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#🇳🇱NL-149.34.244.68-0999",
     "countryCode": "nl"
   },
   {
-    "name": "Netherlands 2",
+    "name": "Netherlands",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.71:443#🇳🇱NL-149.34.244.71-0991",
     "countryCode": "nl"
   },
   {
-    "name": "Netherlands 3",
+    "name": "Netherlands",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#%F0%9F%87%B3%F0%9F%87%B1NL-103.106.1.92-0976",
     "countryCode": "nl"
   },
   {
-    "name": "Netherlands 4",
+    "name": "Netherlands",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#Netherlands%20#21581%20/%20OutlineKeys.com",
     "countryCode": "nl"
   },
   {
-    "name": "Finland 1",
+    "name": "Finland",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#Finland%20#21292%20/%20OutlineKeys.com",
     "countryCode": "fi"
   },
   {
-    "name": "Finland 2",
+    "name": "Finland",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.218:2222#Finland%20#21564%20/%20OutlineKeys.com",
     "countryCode": "fi"
   },
   {
-    "name": "Poland 1",
+    "name": "Poland",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WkVZckIyNWVMcGlMaEIyN3U3Y3VMRG9STDZqaFpNZkN4cnNyTXZPeGNTMkVNR2J2V2lKZEsyaXRpV1VIQVE9@45.43.137.114:443#Poland%20#21558%20/%20OutlineKeys.com",
     "countryCode": "pl"
   },
   {
-    "name": "Poland 2",
+    "name": "Poland",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#Poland%20#21582%20/%20OutlineKeys.com",
     "countryCode": "pl"
   },
   {
-    "name": "Poland 4",
+    "name": "Poland",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%F0%9F%87%B5%F0%9F%87%B1PL-92.118.205.228-1093",
     "countryCode": "pl"
   },
   {
-    "name": "Switzerland 1",
+    "name": "Switzerland",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#Switzerland%20Datacamp",
     "countryCode": "ch"
   },
   {
-    "name": "Switzerland 2",
+    "name": "Switzerland",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#🇨🇭CH-156.146.62.163-1011",
     "countryCode": "ch"
   },
   {
-    "name": "Switzerland 3",
+    "name": "Switzerland",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#🇨🇭CH-156.146.62.164-1014",
     "countryCode": "ch"
   },
   {
-    "name": "Switzerland 4",
+    "name": "Switzerland",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#🇺🇸US-212.102.47.131-0971",
     "countryCode": "ch"
   },
   {
-    "name": "Switzerland 5",
+    "name": "Switzerland",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#🇨🇭CH-156.146.62.161-1012",
     "countryCode": "ch"
   },
   {
-    "name": "Switzerland 6",
+    "name": "Switzerland",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#🇨🇭CH-156.146.62.162-1010",
     "countryCode": "ch"
   },
   {
-    "name": "Switzerland 7",
+    "name": "Switzerland",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%ADCH-204.136.10.115-2004",
     "countryCode": "ch"
   },
   {
-    "name": "Russia 1",
+    "name": "Russia",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#%F0%9F%87%B7%F0%9F%87%BARU-45.151.62.54-1047",
     "countryCode": "ru"
   },
   {
-    "name": "Austria 1",
+    "name": "Austria",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Austria%20PQ",
     "countryCode": "at"
   },
   {
-    "name": "Czechia 1",
+    "name": "Czechia",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#🇨🇿CZ-195.181.160.6-1009",
     "countryCode": "cz"
   },
   {
-    "name": "Singapore 1",
+    "name": "Singapore",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpya3FaRXU1eHQzYXlETENjM0JUSU5u@13.251.200.231:8443#Singapore%20#21631%20/%20OutlineKeys.com",
     "countryCode": "sg"
   },
   {
-    "name": "Singapore 2",
+    "name": "Singapore",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowWU1OaTJuajc0aDhwN29HQXNFTFRI@128.199.191.153:51697#Singapore%20#21613%20/%20OutlineKeys.com",
     "countryCode": "sg"
   },
   {
-    "name": "Singapore 3",
+    "name": "Singapore",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVTUzQVVmODV3OVp5ckNiMDVTc0tx@188.166.245.158:12677#Singapore%20#21614%20/%20OutlineKeys.com",
     "countryCode": "sg"
   },
   {
-    "name": "Singapore 4",
+    "name": "Singapore",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U2VCNzZTajV1NENnOU12b0p3cTN1@68.183.179.190:35565#Singapore%20#21615%20/%20OutlineKeys.com",
     "countryCode": "sg"
   },
   {
-    "name": "Japan 1",
+    "name": "Japan",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#Japan%20Datacamp",
     "countryCode": "jp"
   },
   {
-    "name": "Japan 2",
+    "name": "Japan",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp",
     "countryCode": "jp"
   },
   {
-    "name": "Vietnam 1",
+    "name": "Vietnam",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#Vietnam%20#20946%20/%20OutlineKeys.com",
     "countryCode": "vn"
   },
   {
-    "name": "Vietnam 2",
+    "name": "Vietnam",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#Vietnam%20#21550%20/%20OutlineKeys.com",
     "countryCode": "vn"
   },
   {
-    "name": "Taiwan 1",
+    "name": "Taiwan",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#t.me%2FOutlineVpnOfficial%20%7C%20%282586%29%20%7C%20TW",
     "countryCode": "tw"
   },
   {
-    "name": "India ",
+    "name": "India",
     "config": "ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#India%20#20945%20/%20OutlineKeys.com",
     "countryCode": "in"
   },
   {
-    "name": "India 2",
+    "name": "India",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#India%20#20949%20/%20OutlineKeys.com",
     "countryCode": "in"
   },
   {
-    "name": "Turkey 1",
+    "name": "Turkey",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#Turkey%20#21058%20/%20OutlineKeys.com",
     "countryCode": "tr"
   },
   {
-    "name": "Turkey 2",
+    "name": "Turkey",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#Turkey%20#21548%20/%20OutlineKeys.com",
     "countryCode": "tr"
   },
   {
-    "name": "Argentina 1",
+    "name": "Argentina",
     "config": "ss://YWVzLTI1Ni1nY206WU9JTDA1RktaSVVCOFRVNA==@31.40.212.221:20006#Argentina%20#21632%20/%20OutlineKeys.com",
     "countryCode": "ar"
   },
   {
-    "name": "Argentina 2",
+    "name": "Argentina",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#Argentina%20#21134%20/%20OutlineKeys.com",
     "countryCode": "ar"
   },
   {
-    "name": "Canada 1",
+    "name": "Canada",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@162.221.207.189:8443#Canada%20#21630%20/%20OutlineKeys.com",
     "countryCode": "ca"
   },
   {
-    "name": "Canada 2",
+    "name": "Canada",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#Canada%20Datacamp",
     "countryCode": "ca"
   },
   {
-    "name": "Canada 3",
+    "name": "Canada",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80/?outline=1",
     "countryCode": "ca"
   },
   {
-    "name": "Canada 4",
+    "name": "Canada",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#t.me%2FOutlineVpnOfficial%20%7C%20%282589%29%20%7C%20CA",
     "countryCode": "ca"
   }
