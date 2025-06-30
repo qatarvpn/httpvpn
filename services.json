@@ -215,6 +215,11 @@
     "countryCode": "jp"
   },
   {
+  "name": "South Korea 2 🇰🇷",
+  "config": "ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-4980"
+    "countryCode": "kr"
+},
+  {
     "name": "VIETNAM",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#Vietnam%20#20946%20/%20OutlineKeys.com",
     "countryCode": "vn"
