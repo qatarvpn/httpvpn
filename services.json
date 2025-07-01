@@ -1,6 +1,6 @@
 [
   {
-    "name": "UNITED STATES",
+    "name": "UNITED STATES 1",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-0964",
     "countryCode": "us"
   },
@@ -24,7 +24,7 @@
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLelBnR3ZVMjlybENTdzRza3VERjc3@94.159.96.245:11902#Germany%20#22050%20/%20OutlineKeys.com",
     "countryCode": "de"
   },
-   {
+  {
     "name": "GERMANY",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Germany%20#21195%20/%20OutlineKeys.com",
     "countryCode": "de"
@@ -34,7 +34,7 @@
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4T0xUNU4xYnNjWGdwVnVpOU50Z0po@45.150.32.13:14628#Germany%20#21667%20/%20OutlineKeys.com",
     "countryCode": "de"
   },
-   {
+  {
     "name": "GERMANY",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#Germany%20#12466%20/%20OutlineKeys.com",
     "countryCode": "de"
@@ -181,7 +181,7 @@
   },
   {
     "name": "SINGAPORE",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNTRnQVNaaHRocmZoRGVVVXlIUjd4TUtFcGM4Y2xwNVFDcFdZcnd2a3lRPQ@167.172.95.249:30655#Singapore%20#21902%20/%20OutlineKeys.com"
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNTRnQVNaaHRocmZoRGVVVXlIUjd4TUtFcGM4Y2xwNVFDcFdZcnd2a3lRPQ@167.172.95.249:30655#Singapore%20#21902%20/%20OutlineKeys.com",
     "countryCode": "sg"
   },
   {
@@ -229,7 +229,7 @@
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#Turkey%20#21548%20/%20OutlineKeys.com",
     "countryCode": "tr"
   },
- {
+  {
     "name": "CANADA",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@162.221.207.189:8443#Canada%20#21630%20/%20OutlineKeys.com",
     "countryCode": "ca"
