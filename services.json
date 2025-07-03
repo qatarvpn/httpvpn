@@ -16,13 +16,8 @@
   },
   {
     "name": "UNITED STATES",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha2NIVnQ5YlBoOERDazZqTUt6NjJq@198.211.104.229:60573#United States%20#21616%20/%20OutlineKeys.com",
+    "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.168-0240",
     "countryCode": "us"
-  },
-  {
-    "name": "GERMANY",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLelBnR3ZVMjlybENTdzRza3VERjc3@94.159.96.245:11902#Germany%20#22050%20/%20OutlineKeys.com",
-    "countryCode": "de"
   },
   {
     "name": "GERMANY",
@@ -61,7 +56,7 @@
   },
   {
     "name": "FRANCE",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#🇫🇷FR-45.158.171.151-1008",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#France%20#22212%20/%20OutlineKeys.com",
     "countryCode": "fr"
   },
   {
@@ -110,23 +105,13 @@
     "countryCode": "fi"
   },
   {
-    "name": "FINLAND",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@5.181.20.23:5904#Finland%20#22051%20/%20OutlineKeys.com",
-    "countryCode": "fi"
-  },
-  {
     "name": "POLAND",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU@23.27.24.181:40030#Poland%20#22057%20/%20OutlineKeys.com",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MThSUFdFUm1kWUtUVUtrVGtvT0VE@77.83.246.74:443#Poland%20#22207%20/%20OutlineKeys.com",
     "countryCode": "pl"
   },
   {
     "name": "POLAND",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#Poland%20#21582%20/%20OutlineKeys.com",
-    "countryCode": "pl"
-  },
-  {
-    "name": "POLAND",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%F0%9F%87%B5%F0%9F%87%B1PL-92.118.205.228-1093",
     "countryCode": "pl"
   },
   {
@@ -181,7 +166,7 @@
   },
   {
     "name": "SINGAPORE",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNTRnQVNaaHRocmZoRGVVVXlIUjd4TUtFcGM4Y2xwNVFDcFdZcnd2a3lRPQ@167.172.95.249:30655#Singapore%20#21902%20/%20OutlineKeys.com",
+    "config": "ss://YWVzLTI1Ni1nY206ai8wMFEwSHBUV0k5Vyt3OHpsTjMrNXgzbDk1VEJLc3BQMjk1cWJqRmM0RT0@128.199.231.221:41281#Singapore%20#22262%20/%20OutlineKeys.com",
     "countryCode": "sg"
   },
   {
@@ -226,13 +211,8 @@
   },
   {
     "name": "TURKEY",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#Turkey%20#21548%20/%20OutlineKeys.com",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZHNhZGFzZA@tr-1.stunnel.cc:8444#Turkey%20#22292%20/%20OutlineKeys.com",
     "countryCode": "tr"
-  },
-  {
-    "name": "CANADA",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@162.221.207.189:8443#Canada%20#21630%20/%20OutlineKeys.com",
-    "countryCode": "ca"
   },
   {
     "name": "CANADA",
