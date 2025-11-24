@@ -260,8 +260,8 @@
     "countryCode": "cr"
   },
     {
-    "name": "hy2",
-    "config": "hy2://59fd10f7-6b90-4976-90ff-7dcd339c0168@dg.jgpyjc.top:40000/?sni=dg.jgpyjc.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%2340",
+    "name": "hy2 test",
+    "config": "hy2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743/?insecure=1#All-%40V2rayAlpha--33",
     "countryCode": "cr"
   },
   {
